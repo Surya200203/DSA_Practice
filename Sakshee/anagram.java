@@ -6,7 +6,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+class anagram {
     public boolean isAnagram(String s, String t) {
         char[] sChars = s.toCharArray();
         char[] tChars = t.toCharArray();
